@@ -1,0 +1,1 @@
+Hello, everyone! This repository is where I am practicing different React Projects as prompted by Front End Mentor. The first project I am trying to complete is the QR Code display challenge. For this project I will be using primarily JSX with the possibility for use of vanilla JavaScript, HTML, and CSS.
